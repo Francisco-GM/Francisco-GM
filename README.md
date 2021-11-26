@@ -1,16 +1,15 @@
-### Hi there 👋
+![](https://soyhorizonte.com/wp-content/uploads/2020/10/JS.gif)
+## Hi!!, thanks for visiting my GitHub :wave:
+## About me
+My name is Francisco Gonzalez Monrroy, i am Backend Developer but my goals is to become a Fullstack Developer.
+I like to learn new technologies, i like to learn web and mobile development  :computer: :smile:
 
-<!--
-**Francisco-GM/Francisco-GM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my hobbies are playing video games, watching series and learning new things
+## GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco-GM&show_icons=true&theme=ayu-mirage)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-GM&show_icons=true&theme=ayu-mirage)]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
